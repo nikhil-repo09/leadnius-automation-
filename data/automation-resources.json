@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sample-gtm-resource",
+    "type": "gtm-resource",
+    "title": "Outbound Sales Playbook",
+    "description": "A practical guide to building a structured outbound sales process.",
+    "date": "2026-09-30",
+    "content": "<h2>Outbound Sales Playbook</h2><p>This is sample automated GTM resource content for testing.</p><h3>Key Areas</h3><ul><li>ICP definition</li><li>Prospecting strategy</li><li>Outreach sequence</li></ul>",
+    "downloadUrl": "",
+    "automated": true
+  },
+  {
+    "id": "sample-case-study",
+    "type": "case-study",
+    "title": "AI Lead Qualification Automation",
+    "description": "How an automated workflow can qualify inbound leads and organize prospects.",
+    "date": "2026-09-29",
+    "content": "<h2>AI Lead Qualification Automation</h2><p>This is sample automated case study content for testing.</p><h3>Workflow</h3><ul><li>Capture inbound lead</li><li>Research company information</li><li>Score the lead</li><li>Store qualified prospects</li></ul>",
+    "downloadUrl": "",
+    "automated": true
+  }
+]

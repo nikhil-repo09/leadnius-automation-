@@ -1,0 +1,31 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Registration {
+  id          Int      @id @default(autoincrement())
+  fullName    String
+  email       String
+  password    String?
+  linkedin    String?
+  startupName String?
+  startupUrl  String?
+  stage       String?
+  industry    String?
+  lookingFor  String[]
+  betaPerk    String?
+  timestamp   DateTime @default(now())
+}
+
+model Newsletter {
+  id        Int      @id @default(autoincrement())
+  email     String   @unique
+  timestamp DateTime @default(now())
+
+  @@map("Newsletter Emails")
+}
