@@ -1,5 +1,15 @@
 [
   {
+    "id": "1dYRTC6EFJlnQQNtIMzmzhck7QoyRlb1v",
+    "type": "gtm-resource",
+    "title": "resource_instagram.txt",
+    "description": "Test automated resource",
+    "date": "2026-10-01T11:51:42.072+05:30",
+    "content": "A powerful short film exploring love, marriage, trust, and betrayal. This story takes you through the emotional consequences of an age-gap relationship and an extra-marital affair.\r\n\r\nWatch till the end and share your thoughts in the comments.\r\n\r\n🌐 Visit our website:\r\nhttps://www.example.com\r\n\r\n#AgeGap #ShortFilm #LoveStory #Marriage #Betrayal #ExtraMaritalAffair #Drama #Relationship #HindiShortFilm",
+    "downloadUrl": "https://drive.google.com/file/d/1dYRTC6EFJlnQQNtIMzmzhck7QoyRlb1v/view",
+    "automated": true
+  },
+  {
     "id": "1HZ1RKsv3gBJz2fjQyR6UIxpJVu8qdhv4",
     "type": "unknown",
     "title": "insta.txt",
