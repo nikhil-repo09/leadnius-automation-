@@ -1,5 +1,15 @@
 [
   {
+    "id": "1SRpvQrNhFmcdXEhq6WjL3Gcp8RqxFmTu",
+    "type": "gtm-resource",
+    "title": "resource_signal_based_gtm_motion.pdf",
+    "description": "Test automated resource",
+    "date": "2026-10-01T12:45:11.840+05:30",
+    "content": "undefined",
+    "downloadUrl": "https://drive.google.com/file/d/1SRpvQrNhFmcdXEhq6WjL3Gcp8RqxFmTu/view",
+    "automated": true
+  },
+  {
     "id": "1IZMLNXEXEVt7wCg697wa5O5-xIkXhT35",
     "type": "case-study",
     "title": "casestudy_signal_based_gtm_workflow.pdf",
