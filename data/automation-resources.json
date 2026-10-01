@@ -1,5 +1,15 @@
 [
   {
+    "id": "1xVSgYbTJY4WJW7lspMXOdUs3Czrko8Lz",
+    "type": "case-study",
+    "title": "Building a Signal-Based GTM Workflow",
+    "description": "This is an illustrative case study for testing the Leadnius resource workflow. It describes a representative GTM workflow and does not claim results for a named customer.",
+    "date": "2026-10-01T16:26:01.848+05:30",
+    "content": "<h2>Key Highlights</h2>\n<ul>\n<li>Identify accounts using meaningful market and buyer signals.</li>\n<li>Enrich accounts and contacts with useful context.</li>\n<li>Prioritise accounts using fit and intent.</li>\n<li>Create messaging that reflects the target persona and available context.</li>\n<li>Coordinate outreach without manually moving information between systems.</li>\n</ul>",
+    "downloadUrl": "https://drive.google.com/file/d/1xVSgYbTJY4WJW7lspMXOdUs3Czrko8Lz/view",
+    "automated": true
+  },
+  {
     "id": "1m_0M1TS-qr2AErE9IwWGwEIc8lmGLI3z",
     "type": "case-study",
     "title": "Building a Signal-Based GTM Workflow",
