@@ -1,5 +1,15 @@
 [
   {
+    "id": "1IZMLNXEXEVt7wCg697wa5O5-xIkXhT35",
+    "type": "case-study",
+    "title": "casestudy_signal_based_gtm_workflow.pdf",
+    "description": "Test automated resource",
+    "date": "2026-10-01T12:45:00.828+05:30",
+    "content": "undefined",
+    "downloadUrl": "https://drive.google.com/file/d/1IZMLNXEXEVt7wCg697wa5O5-xIkXhT35/view",
+    "automated": true
+  },
+  {
     "id": "sample-gtm-resource",
     "type": "gtm-resource",
     "title": "Outbound Sales Playbook",
