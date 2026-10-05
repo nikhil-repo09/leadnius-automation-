@@ -1,5 +1,16 @@
 [
   {
+    "id": "1CR2LnrvAwI40DqnaG52Y9ojP-tZVIxsq",
+    "resourceKey": "resource-signal-based-gtm-motion",
+    "type": "gtm-resource",
+    "title": "signal based gtm motion",
+    "description": "A practical framework for connecting buying signals, account enrichment, prioritisation, personalised messaging, and coordinated outreach. Why traditional outbound breaks down Many outbound teams begin with large...",
+    "date": "2026-10-05T11:26:18.654+05:30",
+    "content": "<h2>Key Highlights</h2>\n<ul>\n<li>Lists are collected without enough account or buyer context.</li>\n<li>The same message is reused across different personas and situations.</li>\n<li>Sales teams spend time researching and moving information between tools.</li>\n<li>Signals such as funding, hiring, technology changes, website activity, or product triggers are not</li>\n<li>Reporting arrives after activity instead of helping the team decide what to do next.</li>\n</ul>",
+    "downloadUrl": "https://drive.google.com/file/d/1CR2LnrvAwI40DqnaG52Y9ojP-tZVIxsq/view",
+    "automated": true
+  },
+  {
     "id": "1xVSgYbTJY4WJW7lspMXOdUs3Czrko8Lz",
     "type": "case-study",
     "title": "Building a Signal-Based GTM Workflow",
